@@ -29,7 +29,7 @@ section {
   width: 60%;
   padding-left: 200px;
 }
-#only-top-image{
+#only-top-image {
   margin-top: 30px;
 }
 .top-banner {
@@ -69,29 +69,27 @@ section {
   padding-right: 20px;
   border-left: 3px solid red;
   border-radius: 10px;
-  
-  }
-#baby{
-  border-image: linear-gradient(red,blue) 27 /5px;
+}
+#baby {
+  border-image: linear-gradient(red, blue) 27 /5px;
   background-color: rgb(30, 201, 39);
 }
 
-footer p{
+footer p {
   text-align: center;
   background-color: yellowgreen;
   padding-top: 5px;
   padding-right: 5px;
 }
-  #full{
-   background-color: rgb(55, 0, 255);
-   
-  }
-  .design{
-    border: 5px dotted red;
-    background-color: yellow;
-    border-radius: 40px;
-    margin-left:500px;
-     margin-right:500px;
-     padding-top: 4px;
-     padding-bottom: 4px;
-  }
+#full {
+  background-color: rgb(55, 0, 255);
+}
+.design {
+  border: 5px dotted red;
+  background-color: yellow;
+  border-radius: 40px;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
